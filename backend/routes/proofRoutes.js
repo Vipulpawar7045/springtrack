@@ -1,0 +1,10 @@
+const express = require('express');
+const r = express.Router();
+const { uploadProof, getProofs, deleteProof } = require('../controllers/proofController');
+const { protect } = require('../middleware/authMiddleware');
+const { upload } = require('../config/cloudinary');
+r.use(protect);
+r.get('/', getProofs);
+r.post('/upload', upload.single('file'), uploadProof);
+r.delete('/:id', deleteProof);
+module.exports = r;
