@@ -1,4 +1,4 @@
-# 🌱 SpringTrack – Smart Learning & Productivity Tracker
+# SpringTrack – Smart Learning & Productivity Tracker
 
 A full-stack MERN application for tracking your learning journey with proof-based task verification, streaks, analytics, and more.
 
