@@ -1,7 +1,7 @@
 # SpringTrack – Smart Learning & Productivity Tracker
 
 
-🚀 Live Demo: https://https://springtrack.vercel.app
+🚀 Live Demo: https://springtrack.vercel.app
 
 🔗 Backend API: https://springtrack-backend.onrender.com
 
