@@ -1,5 +1,13 @@
 # SpringTrack – Smart Learning & Productivity Tracker
 
+# 🌱 SpringTrack
+
+🚀 Live Demo: https://your-vercel-url.vercel.app
+
+🔗 Backend API: https://springtrack-backend.onrender.com
+
+📂 GitHub Repository: https://github.com/Vipulpawar7045/springtrack
+
 A full-stack MERN application for tracking your learning journey with proof-based task verification, streaks, analytics, and more.
 
 ---
